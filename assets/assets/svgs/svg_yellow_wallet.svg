@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.834" height="22.834" viewBox="0 0 22.834 22.834">
+  <g id="Group_103740" data-name="Group 103740" transform="translate(-43 -555.082)">
+    <ellipse id="Ellipse_1064" data-name="Ellipse 1064" cx="11.417" cy="11.417" rx="11.417" ry="11.417" transform="translate(43 555.082)" fill="#fec34d" opacity="0.14"/>
+    <g id="credit-card" transform="translate(48.417 559)">
+      <circle id="Ellipse_1065" data-name="Ellipse 1065" cx="0.831" cy="0.831" r="0.831" transform="translate(1.846 8.331)" fill="#fec34d"/>
+      <path id="Path_182002" data-name="Path 182002" d="M9.5,3h-7A2.5,2.5,0,0,0,0,5.5v4A2.5,2.5,0,0,0,2.5,12h7A2.5,2.5,0,0,0,12,9.5v-4A2.5,2.5,0,0,0,9.5,3Zm-7,1h7A1.5,1.5,0,0,1,11,5.5H1A1.5,1.5,0,0,1,2.5,4Zm7,7h-7A1.5,1.5,0,0,1,1,9.5v-3H11v3A1.5,1.5,0,0,1,9.5,11Z" fill="#fec34d"/>
+    </g>
+  </g>
+</svg>

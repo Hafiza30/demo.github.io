@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.32" height="21.32" viewBox="0 0 21.32 21.32">
+  <g id="vuesax_outline_tag-cross" data-name="vuesax/outline/tag-cross" transform="translate(-620 -380)">
+    <g id="tag-cross" transform="translate(620 380)">
+      <path id="Vector" d="M0,0H21.32V21.32H0Z" fill="none" opacity="0"/>
+      <g id="Ellipse_2592" data-name="Ellipse 2592" transform="translate(2.66 2.66)" fill="#fff" stroke="#131414" stroke-width="1">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="7.5" fill="none"/>
+      </g>
+      <path id="Vector-2" data-name="Vector" d="M5.052,5.728a.659.659,0,0,1-.471-.2L.193,1.135A.666.666,0,0,1,1.135.193l4.388,4.4a.67.67,0,0,1,0,.942A.659.659,0,0,1,5.052,5.728Z" transform="translate(7.802 7.796)" fill="#292d32"/>
+      <path id="Vector-3" data-name="Vector" d="M.664,5.719a.659.659,0,0,1-.471-.2.67.67,0,0,1,0-.942L4.582.193a.666.666,0,0,1,.942.942L1.135,5.523A.659.659,0,0,1,.664,5.719Z" transform="translate(7.802 7.805)" fill="#292d32"/>
+    </g>
+  </g>
+</svg>

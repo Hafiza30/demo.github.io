@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.418" height="18.418" viewBox="0 0 18.418 18.418">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fec34d"/>
+      <stop offset="0.263" stop-color="#f88c83"/>
+      <stop offset="1" stop-color="#f048c6"/>
+    </linearGradient>
+  </defs>
+  <g id="vuesax_bulk_search-zoom-in" data-name="vuesax/bulk/search-zoom-in" transform="translate(-6.791 -2.75)">
+    <g id="search-zoom-in" transform="translate(6.791 2.75)">
+      <path id="Vector" d="M13.829,6.914A6.914,6.914,0,1,1,6.914,0,6.914,6.914,0,0,1,13.829,6.914Z" transform="translate(2.295 2.295)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M4.988,2.494a.58.58,0,0,1-.576.576H3.07V4.413a.576.576,0,0,1-1.151,0V3.07H.576a.576.576,0,0,1,0-1.151H1.919V.576a.576.576,0,0,1,1.151,0V1.919H4.413A.58.58,0,0,1,4.988,2.494Z" transform="translate(6.707 6.707)" fill="url(#linear-gradient)"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H18.418V18.418H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

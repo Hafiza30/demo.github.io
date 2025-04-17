@@ -1,0 +1,10 @@
+<svg id="Component_68_4" data-name="Component 68 – 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_25777" data-name="Rectangle 25777" width="24" height="24" transform="translate(20 203)" fill="#131414"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_793" data-name="Mask Group 793" transform="translate(-20 -203)" clip-path="url(#clip-path)">
+    <path id="Path_180885" data-name="Path 180885" d="M1469.17,250.883a7.617,7.617,0,0,0,2.66,0,3.721,3.721,0,0,0,2.96-2.459l.08-.267a2.763,2.763,0,0,0,.13-.854,2.432,2.432,0,0,0-2.54-2.3h-3.92a2.432,2.432,0,0,0-2.54,2.3,2.763,2.763,0,0,0,.13.854l.08.267A3.721,3.721,0,0,0,1469.17,250.883Zm0,0a15.027,15.027,0,0,1-12.05-12.048m0,0a7.484,7.484,0,0,1,0-2.67,3.7,3.7,0,0,1,2.46-2.951l.26-.083a2.9,2.9,0,0,1,.86-.131,2.43,2.43,0,0,1,2.3,2.541v3.918a2.43,2.43,0,0,1-2.3,2.541,2.9,2.9,0,0,1-.86-.131l-.26-.083A3.7,3.7,0,0,1,1457.12,238.835Z" transform="translate(-1434 -27)" fill="none" stroke="#131414" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg id="location" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <path id="Vector" d="M3.347,1.673A1.673,1.673,0,1,1,1.673,0,1.673,1.673,0,0,1,3.347,1.673Z" transform="translate(5.327 4.313)" fill="none" stroke="#131414" stroke-width="0.8"/>
+  <path id="Vector-2" data-name="Vector" d="M.146,3.847c1.185-5.133,8.906-5.127,10.085.006.692,3.011-1.209,5.56-2.876,7.137a3.159,3.159,0,0,1-4.338,0C1.356,9.413-.546,6.858.146,3.847Z" transform="translate(1.811 1.073)" fill="none" stroke="#131414" stroke-width="0.8"/>
+  <path id="Vector-3" data-name="Vector" d="M0,0H14V14H0Z" transform="translate(14 14) rotate(180)" fill="none" opacity="0"/>
+</svg>
